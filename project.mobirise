@@ -76,7 +76,7 @@
                 "overlay": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-533189-2000x1500.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -88,7 +88,7 @@
                 "overlay": true
               },
               {
-                "image": "images/slide3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-461064-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -331,22 +331,6 @@
           }
         },
         {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "_anchor": "footer1-f"
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -431,8 +415,8 @@
             }
           },
           "text1": "<b>АДРЕС:\n</b><br>г. Барнаул\n<br>ул. Антона Петрова 219А\n<br>оф. 202/1",
-          "text2": "<b>КОНТАКТЫ:\n</b><br>Email: ooo_solt@mail.ru\n<br>Менеджеры по перевозкам: \n<br>Вадим Александрович: +7 (996) 707 2688 \n<br>Сергей Витальевич: +7 (996) 708 3009 \n<br>Никита Дмитриевич: +7 (996) 706 0678",
-          "text3": "<p class=\"mbr-contacts__text\"><b>ССЫЛКИ:</b></p><ul class=\"mbr-contacts__list\"><li><br></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text2": "<b>КОНТАКТЫ:\n</b><br>Email: <a href=\"mailto:ooo_solt@mail.ru\" class=\"text-gray\">ooo_solt@mail.ru</a>\n<br>Менеджеры по перевозкам: \n<br>Вадим Александрович: <br>+7 (996) 707 2688 \n<br>Сергей Витальевич: <br>+7 (996) 708 3009 \n<br>Никита Дмитриевич: <br>+7 (996) 706 0678",
+          "text3": "<p class=\"mbr-contacts__text\"><b>ССЫЛКИ:</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://play.google.com/store/apps/details?id=com.kontur.diadoc&amp;hl=ru&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1\" target=\"_blank\" class=\"text-gray\" style=\"background-color: rgb(60, 60, 60);\">ДиаДок для Android</a><br></li><li><a href=\"https://itunes.apple.com/ru/app/kontur-diadoc/id1001085752?l=en&amp;mt=8\" target=\"_blank\" class=\"text-gray\">ДиаДок для iOS</a></li><li><a href=\"https://play.google.com/store/apps/details?id=ru.fns.billchecker&amp;hl=ru\" target=\"_blank\" class=\"text-gray\">Проверка чека в ФНС для Android</a></li><li><a href=\"https://itunes.apple.com/ru/app/проверка-кассового-чека-в-фнс-россии/id1169353005?mt=8\" target=\"_blank\" class=\"text-gray\">Проверка чека в ФНС для iOS</a></li></ul>",
           "_tags": [
             "Theme"
           ],
