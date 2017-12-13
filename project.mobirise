@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -45,7 +45,7 @@
           },
           "title": "ДиаЛог",
           "text": "Мы создаем настоящий цифровой документооборот.\n<br>Наше решение цифрового документооборота ликвидирует бумажные расходы на обработку, выводя систему документооборота в грузоперевозках на новый уровень.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">О ПРОДУКТЕ<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"index.html#content5-t\" data-toolbar=\"-mbrBtnMove\">КАК ЭТО РАБОТАЕТ</a>",
           "_tags": [
             "Theme"
           ],
@@ -64,8 +64,8 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "images/slide1.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1608x1080.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -76,8 +76,8 @@
                 "overlay": true
               },
               {
-                "image": "images/slide2.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -112,14 +112,14 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "fullScreen": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "showBullets": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1618x1080.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -128,7 +128,9 @@
                 "contentAlign": "center",
                 "text": "Чтобы вы могли быстрее согласовывать первичные документы внутри компании.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://itunes.apple.com/ru/app/kontur-diadoc/id1001085752?l=en&amp;mt=8\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ iOS</a>",
-                "overlay": true
+                "overlay": true,
+                "overlayOpacity": "1",
+                "overlayColor": "#000000"
               },
               {
                 "image": "images/slide2.jpg",
@@ -139,7 +141,10 @@
                 "title": "Проверка кассового чека в ФНС России",
                 "contentAlign": "center",
                 "text": "Проверка кассового чека в ФНС России – Приложение позволит получать и хранить кассовые чеки в электронном виде, а также проверить их легальность, добросовестность продавца или сообщить о нарушении.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://play.google.com/store/apps/details?id=ru.fns.billchecker&amp;hl=ru\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://itunes.apple.com/ru/app/проверка-кассового-чека-в-фнс-россии/id1169353005?mt=8\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ iOS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://play.google.com/store/apps/details?id=ru.fns.billchecker&amp;hl=ru\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://itunes.apple.com/ru/app/проверка-кассового-чека-в-фнс-россии/id1169353005?mt=8\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ iOS</a>",
+                "overlay": true,
+                "overlayOpacity": "1",
+                "overlayColor": "#000000"
               }
             ]
           },
@@ -157,6 +162,53 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#222222"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "EASY TO USE!",
+          "text": "<p><b>1) Вы оставляете заявку на сайте</b></p><p><b>2) С Вами связывается специалист</b></p><p><b>3) Вы предоставляете пакет документов</b></p><p><b>4) итд</b></p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-t"
         },
         {
           "_inherit": "msg-box3",
