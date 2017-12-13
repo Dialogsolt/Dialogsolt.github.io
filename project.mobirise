@@ -298,7 +298,7 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Телефон"
+                "customTitle": "Телефон*"
               },
               "message": {
                 "title": "Message",
