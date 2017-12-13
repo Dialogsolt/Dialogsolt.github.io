@@ -127,7 +127,7 @@
                 "title": "Мобильное приложение\n<div>для согласования документов</div>",
                 "contentAlign": "center",
                 "text": "Чтобы вы могли быстрее согласовывать первичные документы внутри компании.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://itunes.apple.com/ru/app/kontur-diadoc/id1001085752?l=en&amp;mt=8\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ iOS</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://play.google.com/store/apps/details?id=com.kontur.diadoc&amp;hl=ru&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://itunes.apple.com/ru/app/kontur-diadoc/id1001085752?l=en&amp;mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ iOS</a>",
                 "overlay": true,
                 "overlayOpacity": "1",
                 "overlayColor": "#000000"
@@ -141,7 +141,7 @@
                 "title": "Проверка кассового чека в ФНС России",
                 "contentAlign": "center",
                 "text": "Проверка кассового чека в ФНС России – Приложение позволит получать и хранить кассовые чеки в электронном виде, а также проверить их легальность, добросовестность продавца или сообщить о нарушении.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://play.google.com/store/apps/details?id=ru.fns.billchecker&amp;hl=ru\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://itunes.apple.com/ru/app/проверка-кассового-чека-в-фнс-россии/id1169353005?mt=8\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ iOS</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://play.google.com/store/apps/details?id=ru.fns.billchecker&amp;hl=ru\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://itunes.apple.com/ru/app/проверка-кассового-чека-в-фнс-россии/id1169353005?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>ДЛЯ iOS</a>",
                 "overlay": true,
                 "overlayOpacity": "1",
                 "overlayColor": "#000000"
