@@ -278,11 +278,11 @@
             "overlayOpacity": "0.3"
           },
           "title": "РЕГИСТРАЦИЯ<br>",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">РЕГИСТРАЦИЯ</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">РЕГИСТРАЦИЯ</a>",
           "form": {
             "action": "ooo_solt@mail.ru",
             "alerts": {
-              "success": "Спасибо за регистрацию!"
+              "success": "Спасибо за регистрацию! В ближайшее время с вами свяжется наш менеджер."
             },
             "fields": {
               "name": {
